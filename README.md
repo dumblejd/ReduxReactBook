@@ -25,5 +25,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 ```
 
 ### 9-29 Start and show booklist with redux
-renderList(){
+1. renderList(){
         console.log(this);   //why 'this' can be used properly  without bind????????????
+2. where does redux get the data??? what index.js in reducer for???
