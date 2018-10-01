@@ -28,3 +28,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 1. renderList(){
         console.log(this);   //why 'this' can be used properly  without bind????????????
 2. where does redux get the data??? what index.js in reducer for???
+### 10-1 Doing add click on single book to load with redux
+1. onClick={()=>selectBook(book)}// why bother use this.props.selectBook(book)??? and why this.props can have selectBook?????
+2. confused with mapDispatchToProps and mapStateToPorps
